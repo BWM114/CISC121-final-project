@@ -21,3 +21,14 @@ I chose the Bubble Sort algorithm because:
 - **Hidden implementation details**: Index calculation, loop control variables, and other low-level details
 #### 4. Algorithm Design
 - Input → Parse the input → Execute the bubble sort algorithm → Visualize the process → Output the result
+
+## Hugging Face Link
+https://huggingface.co/spaces/MBW114/Bubble_Sort_Visualization/tree/main
+
+## Author & Acknowledgment
+### Author: 
+Jerry Miao
+### Acknowledgment: 
+Instructor Ruslan Kain - For teaching fundamental programming concepts and providing guidance on algorithm design principles
+Course Teaching Team - For their support and feedback throughout the learning process
+Gradio - For the excellent visualization library that made this interface possible
