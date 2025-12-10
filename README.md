@@ -30,5 +30,7 @@ https://huggingface.co/spaces/MBW114/Bubble_Sort_Visualization/tree/main
 Jerry Miao
 ### Acknowledgment: 
 Instructor Ruslan Kain - For teaching fundamental programming concepts and providing guidance on algorithm design principles
+
 Course Teaching Team - For their support and feedback throughout the learning process
+
 Gradio - For the excellent visualization library that made this interface possible
